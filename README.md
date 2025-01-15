@@ -15,8 +15,11 @@ I'm Ali, a passionate developer and AI enthusiast! 🤖
   - Artificial Intelligence and Machine Learning  
   - Web development and scalable services  
   - Data analysis and image processing  
-- 🎯 Goal: To design and develop intelligent systems that make life easier.  
-- 📫 How to reach me: 
+- 🎯 Goal: To design and develop intelligent systems that make life easier.
+  
+ <!---
+ 📫 How to reach me:
+ -->
 
 ---
 
@@ -26,13 +29,19 @@ I'm Ali, a passionate developer and AI enthusiast! 🤖
 
 ---
 ## GitHub Stats 📊
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heydari-dev&show_icons=true&locale=en" alt="heydari-dev" /></p>
 
 ---
-
+<!---
 ## Connect with Me 📩
 - 📧 Email:
 - 💼 LinkedIn:
 - 🌐 Website:
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
