@@ -16,10 +16,6 @@ I'm Ali, a passionate developer and AI enthusiast! 🤖
   - Web development and scalable services  
   - Data analysis and image processing  
 - 🎯 Goal: To design and develop intelligent systems that make life easier.
-  
- <!---
- 📫 How to reach me:
- -->
 
 ---
 
@@ -32,12 +28,15 @@ I'm Ali, a passionate developer and AI enthusiast! 🤖
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heydari-dev&show_icons=true&locale=en" alt="heydari-dev" /></p>
 
 ---
-<!---
+
 ## Connect with Me 📩
-- 📧 Email:
-- 💼 LinkedIn:
-- 🌐 Website:
--->
+<p align="left">
+<a href="https://twitter.com/heydari_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heydari_dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/heydari-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heydari-dev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29214395/ali-heydari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29214395/ali-heydari" height="30" width="40" /></a>
+<a href="https://kaggle.com/heydariai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="heydariai" height="30" width="40" /></a>
+</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
