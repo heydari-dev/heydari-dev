@@ -5,7 +5,7 @@
 
 ---
 # Hi there! 👋  
-I'm Ali, a passionate developer and AI enthusiast! 🤖
+I'm Ali, a passionate developer and AI enthusiast.
 
 ---
 
