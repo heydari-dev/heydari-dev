@@ -4,17 +4,17 @@
 -->
 
 ---
-# Hi there! 👋  
-I'm Ali, a passionate developer and AI enthusiast.
+
+## Hi there! 👋  
+I'm Ali, a software developer with a strong interest in artificial intelligence. I enjoy solving complex problems and learning new technologies.
 
 ---
 
 ## About Me 🚀
-- Currently learning: Advanced AI concepts and deep learning model development.  
-- Interests:  
-  - Artificial Intelligence and Machine Learning  
-  - Web development and scalable services  
-  - Data analysis and image processing  
+I'm currently focused on expanding my knowledge in AI and deep learning. Here's what I'm into:
+- Exploring AI and machine learning techniques
+- Developing scalable web applications
+- Working with data and experimenting with image processing
 
 ---
 
