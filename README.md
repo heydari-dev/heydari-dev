@@ -10,12 +10,11 @@ I'm Ali, a passionate developer and AI enthusiast.
 ---
 
 ## About Me 🚀
-- 🌱 Currently learning: Advanced AI concepts and deep learning model development.  
-- 💡 Interests:  
+-  Currently learning: Advanced AI concepts and deep learning model development.  
+-  Interests:  
   - Artificial Intelligence and Machine Learning  
   - Web development and scalable services  
   - Data analysis and image processing  
-- 🎯 Goal: To design and develop intelligent systems that make life easier.
 
 ---
 
